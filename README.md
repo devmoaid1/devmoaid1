@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Moaid Mohamed</h1>
 <h3 align="center">A passionate software engineer who builds large-scale software (web&mobile)</h3>
 
-- 🔭 I’m currently working on [foodadora](https://github.com/devmoaid1/foodadora)
+- 🔭 I’m currently working on [localization_text_generator](https://github.com/devmoaid1/localization_text_generator)
 
-- 🌱 I’m currently learning **web3,blockchain**
+- 🌱 I’m currently learning **web3,blockchain,Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://devmoaid1.github.io/Moaid-Portfolio/](https://devmoaid1.github.io/Moaid-Portfolio/)
 
