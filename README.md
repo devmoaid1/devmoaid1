@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moaid Mohamed</h1>
 <h3 align="center">A passionate software engineer who builds large-scale software (web&mobile)</h3>
 
-- 🔭 I’m currently working on [quran_voice_recognition](https://github.com/devmoaid1/localization_text_generator)
+- 🔭 I’m currently working on [quran_voice_recognition](https://github.com/devmoaid1/quran_voice_recognition)
 
 - 🌱 I’m currently learning **web3,blockchain,Machine learning**
 
