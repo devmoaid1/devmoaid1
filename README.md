@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Moaid Mohamed</h1>
 <h3 align="center">A passionate software engineer who builds large-scale software (web&mobile)</h3>
 
-- 🔭 I’m currently working on [quran_voice_recognition](https://github.com/devmoaid1/quran_voice_recognition)
+- 🔭 I’m currently working on [Iconic system]
 
-- 🌱 I’m currently learning **web3,blockchain,Machine learning**
+- 🌱 I’m currently learning **Ai automation , System design , advanced mobile development**
 
 - 👨‍💻 All of my projects are available at [https://devmoaid1.github.io/Moaid-Portfolio/](https://devmoaid1.github.io/Moaid-Portfolio/)
-
-- 💬 Ask me about **Flutter , Reactjs**
 
 - 📫 How to reach me **moaidmohamed123@gmail.com**
 
