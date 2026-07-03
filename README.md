@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moaid Mohamed</h1>
 <h3 align="center">A passionate software engineer who builds large-scale software (web&mobile)</h3>
 
-- 🔭 I’m currently working on [Iconic system]
+- 🔭 I’m currently working on **Iconic system**
 
 - 🌱 I’m currently learning **Ai automation , System design , advanced mobile development**
 
